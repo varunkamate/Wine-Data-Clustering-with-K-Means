@@ -25,3 +25,7 @@ This project is a good starting point if you want to learn **unsupervised machin
 ===============================================================================================
 
 <img width="1721" height="778" alt="image" src="https://github.com/user-attachments/assets/c8a6881d-3c35-4bac-93d5-ed2d4bf6ece7" />
+
+===============================================================================================
+
+<img width="1118" height="828" alt="image" src="https://github.com/user-attachments/assets/61ebe427-1b73-46dc-935a-f79e91047594" />
