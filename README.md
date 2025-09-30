@@ -21,3 +21,7 @@ Clone the repo, open the notebook, and run through the cells. You can follow the
 This project is a good starting point if you want to learn **unsupervised machine learning**, **K-Means clustering**, and **data visualization**.
 
 <img width="1678" height="737" alt="image" src="https://github.com/user-attachments/assets/ffb77f5c-b2bb-4cc9-9a59-1a45a26b6223" />
+
+===============================================================================================
+
+<img width="1721" height="778" alt="image" src="https://github.com/user-attachments/assets/c8a6881d-3c35-4bac-93d5-ed2d4bf6ece7" />
