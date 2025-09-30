@@ -19,3 +19,5 @@ It’s a hands-on example of applying K-Means to a real dataset. The notebook is
 Clone the repo, open the notebook, and run through the cells. You can follow the steps directly or adapt them to other datasets to practice clustering.
 
 This project is a good starting point if you want to learn **unsupervised machine learning**, **K-Means clustering**, and **data visualization**.
+
+<img width="1678" height="737" alt="image" src="https://github.com/user-attachments/assets/ffb77f5c-b2bb-4cc9-9a59-1a45a26b6223" />
